@@ -1,3 +1,8 @@
+## Clone
+```bash
+git clone https://github.com/alexalbuquerque87/pythonando_django.git
+```
+
 ## Primeiros passos
 
 ```bash
